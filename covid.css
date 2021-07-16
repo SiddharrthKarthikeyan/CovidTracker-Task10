@@ -1,0 +1,49 @@
+.header{
+    background-color: black;
+    color :red;
+    font-size: 50px;
+    text-align: center;
+    font-family: Franklin Gothic Medium;
+}
+
+.dist{
+    font-size: 30px;
+    font-family: Georgia;
+    font-style: bold;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+#districts{
+    font-size: 25px;
+    font-family: Georgia;
+    font-style: bold;
+    padding: 2px;
+}
+
+.dropdownlist{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+button{
+    font-size: 25px;
+    font-family: Georgia;
+    font-style: bold;
+    margin-left: 30px;
+}
+
+.cases{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia;
+    font-style: bold;
+    color: red;
+}
+
+.conH1{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+}
